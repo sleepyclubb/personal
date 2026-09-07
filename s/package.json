@@ -4,6 +4,6 @@
   "private": true,
   "description": "A personal love website",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   }
 }
