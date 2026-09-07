@@ -1,0 +1,9 @@
+{
+  "name": "for-my-baby",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A personal love website",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
